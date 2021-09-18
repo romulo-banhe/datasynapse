@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--worksynapse1-strdatalake01",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/ce3910e4-3636-40e2-b136-ddf7f18e3a66/resourceGroups/RG_data_engineer/providers/Microsoft.Storage/storageAccounts/strdatalake01",
+		"groupId": "dfs",
+		"fqdns": [
+			"strdatalake01.dfs.core.windows.net"
+		]
+	}
+}
