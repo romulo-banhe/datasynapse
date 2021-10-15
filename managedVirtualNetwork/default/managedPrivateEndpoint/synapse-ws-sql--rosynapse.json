@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--rosynapse",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/b0bd751b-9a74-4a05-8292-384b5f623d64/resourceGroups/RG_DATA/providers/Microsoft.Synapse/workspaces/rosynapse",
+		"groupId": "sql",
+		"fqdns": [
+			"rosynapse.4b700f13-7737-4e0e-a360-6075de5d1d32.sql.azuresynapse.net"
+		]
+	}
+}

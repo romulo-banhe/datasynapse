@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--rosynapse-rostrdatalake01",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/b0bd751b-9a74-4a05-8292-384b5f623d64/resourceGroups/RG_DATA/providers/Microsoft.Storage/storageAccounts/rostrdatalake01",
+		"groupId": "dfs"
+	}
+}
